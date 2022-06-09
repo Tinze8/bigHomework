@@ -1,0 +1,2 @@
+include ':app', ':ycommon_utils'
+rootProject.name='bigHomework'
